@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS todos (id bigserial, name text, done boolean)
